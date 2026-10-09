@@ -10,4 +10,4 @@ Check out my:
 
 [Simple 3D Engine](https://github.com/Sam-JR-Milburn/3DEngine) project - written in C#. 
 
-[Link shortening web app](https://github.com/Sam-JR-Milburn/WeeBit) project - Python and TypeScript.
+[Link Shortening Web App](https://github.com/Sam-JR-Milburn/WeeBit) project - Python and TypeScript.
