@@ -4,7 +4,7 @@ I'm Sam.
 I'm a software developer and cybersecurity analyst. 
 
 I'm currently working on... 
-[https://github.com/Sam-JR-Milburn/Doorlist](https://github.com/Sam-JR-Milburn/Interfile) - a Java + Angular file explorer with zero-knowledge file storage. 
+[https://github.com/Sam-JR-Milburn/Interfile](https://github.com/Sam-JR-Milburn/Interfile) - a Java + Angular Mega-like file explorer with zero-knowledge file storage and retrieval. 
 
 Check out my: 
 
